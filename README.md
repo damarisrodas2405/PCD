@@ -46,3 +46,7 @@ abc,def
 0
 3
 100
+
+# Rodas Sánchez Damaris Pamela 3AM1
+# Clonar repositorio
+https://github.com/damarisrodas2405/reto-semana-1.git
