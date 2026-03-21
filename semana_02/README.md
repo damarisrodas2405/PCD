@@ -99,3 +99,5 @@ Arabia,21.1,Templado
 ## Autor
 
 Rodas Sánchez Damaris Pamela
+
+Este proyecto incluye casos de prueba en `tests/`.
