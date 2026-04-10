@@ -1,0 +1,8 @@
+id,nombre,edad,salario,activo,fecha_ingreso
+1,Juan,30,15000,si,2020-01-15
+2,Ana,28,14000,si,2021-03-10
+3,Carlos,,16000,no,2019-07-22
+4,Luisa,35,,si,2018-11-05
+5,Pedro,40,20000,si,
+6,Maria,abc,18000,no,2022-06-01
+7,,29,17000,si,2020-09-09
