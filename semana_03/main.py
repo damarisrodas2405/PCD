@@ -1,3 +1,4 @@
+import math
 import sys
 
 def main():
@@ -31,6 +32,10 @@ def main():
             cantidad = int(partes[2])
             precio = float(partes[3])
         except ValueError:
+            continue
+
+        # Ignorar valores como NaN, inf o 1e999, que Python acepta como float.
+        if not math.isfinite(precio):
             continue
 
         # Inicializar producto si no existe
